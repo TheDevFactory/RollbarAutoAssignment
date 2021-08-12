@@ -1,4 +1,4 @@
-# RollbarAutoAssignment
+# Rollbar Auto Assignment
 Auto Assign Items in Rollbar based on custom rules per project for both new OR reactivated items.
 
 Download Docker Image: https://hub.docker.com/repository/docker/nkruger/rollbarautoassignment
