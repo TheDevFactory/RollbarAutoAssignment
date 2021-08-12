@@ -1,0 +1,110 @@
+[
+  {
+    "project_id": 476146,
+    "event_name": "new_item",
+    "rules": [
+      {
+        "field": "title",
+        "matchtype": "contains",
+        "value": "nico"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "reactivated_item",
+    "rules": [
+      {
+        "field": "title",
+        "matchtype": "contains",
+        "value": "nico"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "new_item",
+    "rules": [
+      {
+        "field": "title",
+        "matchtype": "contains",
+        "value": "gerhard"
+      }
+    ],
+    "assign_to_username": "gerhardkruger"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "reactivated_item",
+    "rules": [
+      {
+        "field": "title",
+        "matchtype": "contains",
+        "value": "gerhard"
+      }
+    ],
+    "assign_to_username": "gerhardkruger"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "new_item",
+    "rules": [
+      {
+        "field": "host",
+        "matchtype": "equals",
+        "value": "app.floodgate.co.za"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "reactivated_item",
+    "rules": [
+      {
+        "field": "host",
+        "matchtype": "equals",
+        "value": "app.floodgate.co.za"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "new_item",
+    "rules": [
+      {
+        "field": "host",
+        "matchtype": "equals",
+        "value": "demo.floodgate.co.za"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "reactivated_item",
+    "rules": [
+      {
+        "field": "host",
+        "matchtype": "equals",
+        "value": "demo.floodgate.co.za"
+      }
+    ],
+    "assign_to_username": "thedevfactory"
+  },
+  {
+    "project_id": 476146,
+    "event_name": "new_item",
+    "rules": [
+      {
+        "field": "level",
+        "matchtype": "equals",
+        "value": "info"
+      }
+    ],
+    "assign_to_username": "gerhardkruger"
+  }
+]
