@@ -137,7 +137,7 @@ namespace RollbarAutoAssignment.Services
                 if (objRule.event_name.ToLower() == eventObject.event_name.ToLower() && objRule.project_id == eventObject.data.item.project_id) {
 
 
-                    ////Field(s): 'root', 'environment', 'framework', 'host', 'language', 'level', 'url'
+                    ////Field(s): 'title', 'root', 'environment', 'framework', 'host', 'language', 'level', 'url'
                     ////Matchtype(s): 'contains', 'equals', 'startswith'
                     
                     //*********************************************************************            
